@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MyPay" size="6.000000 8.486188" />
+    <ImageTarget name="Prabhu_Bank" size="6.000000 8.486188" />
+    <ImageTarget name="Somes" size="6.000000 4.500000" />
+    <ImageTarget name="Water" size="6.000000 4.500000" />
+    <ImageTarget name="Electrical" size="6.000000 4.007812" />
+    <ImageTarget name="Robotics" size="4.000000 3.031250" />
+    <ImageTarget name="Basketball" size="6.000000 4.500000" />
+    <ImageTarget name="library" size="6.000000 6.000000" />
+  </Tracking>
+</QCARConfig>

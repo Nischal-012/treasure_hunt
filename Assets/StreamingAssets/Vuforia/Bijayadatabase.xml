@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="librarypaxikodhoka" size="6.000000 4.500000" />
+    <ImageTarget name="librarykosideboard" size="6.000000 4.500000" />
+    <ImageTarget name="librarykopwal" size="6.000000 4.500000" />
+    <ImageTarget name="librarykojhyal" size="6.000000 4.500000" />
+    <ImageTarget name="chaurahokogolo" size="6.000000 4.500000" />
+    <ImageTarget name="chaurahakosarsafai" size="6.000000 4.500000" />
+    <ImageTarget name="chaurahakoraprapa" size="6.000000 4.500000" />
+    <ImageTarget name="chaurahakolight" size="6.000000 4.500000" />
+    <ImageTarget name="chaurahakofhara" size="6.000000 4.500000" />
+    <ImageTarget name="bijaya" size="6.000000 4.500000" />
+    <ImageTarget name="BakhraCharauneXeu" size="6.000000 4.500000" />
+    <ImageTarget name="ArchitectureDoor" size="6.000000 4.500000" />
+    <ImageTarget name="ArchitectureDepartment" size="6.000000 4.500000" />
+    <ImageTarget name="Architecture-Shutter" size="6.000000 4.500000" />
+    <ImageTarget name="archikotractor" size="6.000000 4.500000" />
+    <ImageTarget name="archikophotokhiochnethaasu" size="6.000000 4.500000" />
+    <ImageTarget name="archikopanibasin" size="6.000000 4.500000" />
+    <ImageTarget name="archikohydraulics" size="6.000000 4.500000" />
+    <ImageTarget name="archikofarmmachinery" size="6.000000 4.500000" />
+    <ImageTarget name="Agri-ArchiBakhra" size="6.000000 4.500000" />
+    <ImageTarget name="AgriSwitchboard" size="6.000000 4.500000" />
+    <ImageTarget name="AgriStairs" size="6.000000 4.500000" />
+    <ImageTarget name="agrikopanitank" size="6.000000 4.500000" />
+    <ImageTarget name="agrikochath" size="6.000000 4.500000" />
+    <ImageTarget name="agrikobuildingbichko" size="6.000000 4.500000" />
+    <ImageTarget name="AgrijanebatoBox" size="6.000000 4.500000" />
+  </Tracking>
+</QCARConfig>
